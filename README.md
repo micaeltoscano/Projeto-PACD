@@ -10,9 +10,9 @@ O objetivo principal é entender como os recursos públicos foram distribuídos,
 
 ## 👥 Autores
 
-* [Hugo Ryan Santos de França Silva](https://github.com/seu-usuario-aqui)
-* [Micael Oliveira Lima Toscano](https://github.com/micaeltoscano)
-* [Sérgio Cauã dos Santos](https://github.com/seu-usuario-aqui)
+* Hugo Ryan Santos de França Silva
+* Micael Oliveira Lima Toscano
+* Sérgio Cauã dos Santos
 
 
 ## 🛠️ Tecnologias Utilizadas
